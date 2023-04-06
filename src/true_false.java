@@ -10,6 +10,7 @@ public class true_false {
        boolean a = sc.hasNextInt();
         System.out.println(a);
 //the code is complited.
+// Changed by Raghav
 
 
     }
